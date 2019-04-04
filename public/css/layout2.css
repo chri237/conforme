@@ -1,0 +1,51 @@
+/* CSS Document */
+
+#loader{
+	z-index: 9999;
+	display:none;
+	position: fixed;
+	top:150px;
+	left:50%;
+	right: 50%;
+	width: 150px;
+	height: 50px;
+	line-height: 50px;
+	padding: 0 10px;
+	background: #FFF;
+	border: thin solid #1197AD;
+	text-align: center;
+}
+
+.form-search-procedure{
+	border:thin solid rgba(0,0,0,0.10);
+	padding: 10px;
+	border-radius: 50px;
+	width:500px;
+	box-shadow: 0 2px 1px rgba(0,0,0,0.10) inset;
+}
+
+.btn-search-p{
+	border:none;
+	background: rgba(0,0,0,0.00) !impotant;
+	padding: 10px;
+}
+
+/* layout procedure */
+#sub-procedure{
+	margin:5px;
+	padding: 5px;
+	width: 100%;
+	min-height: 200px;
+	align-content: center;
+	align-items: center;
+}
+
+#main-procedure{
+	margin:5px;
+	padding: 5px;
+	width: 100%;
+	min-height: 200px;
+	align-content: center;
+	align-items: center;
+}
+
